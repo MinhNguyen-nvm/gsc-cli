@@ -9,8 +9,7 @@
     "gsc": "./dist/bin/run.js"
   },
   "files": [
-    "/bin",
-    "/dist"
+    "dist"
   ],
   "scripts": {
     "build": "tsc",
