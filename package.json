@@ -13,7 +13,6 @@
     "/dist"
   ],
   "scripts": {
-    "prepare": "npm run build",
     "build": "tsc",
     "postbuild": "chmod +x dist/bin/run.js",
     "start": "node dist/bin/run.js",

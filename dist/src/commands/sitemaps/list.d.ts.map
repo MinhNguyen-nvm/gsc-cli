@@ -1,0 +1,1 @@
+{"version":3,"file":"list.d.ts","sourceRoot":"","sources":["../../../../src/commands/sitemaps/list.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAS,MAAM,aAAa,CAAC;AAK7C,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,OAAO;IAC/C,MAAM,CAAC,WAAW,SAAsC;IAExD,MAAM,CAAC,QAAQ,WAEb;IAEF,MAAM,CAAC,KAAK;;;MAYV;IAEI,GAAG,IAAI,OAAO,CAAC,IAAI,CAAC;CAgC3B"}
