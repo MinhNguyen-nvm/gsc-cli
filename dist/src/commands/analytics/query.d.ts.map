@@ -1,1 +1,0 @@
-{"version":3,"file":"query.d.ts","sourceRoot":"","sources":["../../../../src/commands/analytics/query.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAS,MAAM,aAAa,CAAC;AAM7C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,OAAO;IACjD,MAAM,CAAC,WAAW,SAAiC;IAEnD,MAAM,CAAC,QAAQ,WAKb;IAEF,MAAM,CAAC,KAAK;;;;;;;;MAiCV;IAEI,GAAG,IAAI,OAAO,CAAC,IAAI,CAAC;CAsE3B"}
